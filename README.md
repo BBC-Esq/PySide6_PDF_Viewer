@@ -6,34 +6,33 @@ This repository has two viewers, one based on javascript and the other using the
 # Installation
 > First, make sure you're running [Python 3.10+](https://www.python.org/downloads/release/python-31011/)
   
-### Step 1 - Virtual Environment
 * Download the latest releast and unzip the folder to somewhere on your computer.  Then, open the folder containing my repository files, create a command prompt, and create a virtual environment:
 ```
 python -m venv .
 ```
-* Then "activate" the virtual environment:
+* Activate the virtual environment:
 ```
 .\Scripts\activate
 ```
-
-### Step 2 - Upgrade pip
+* Upgrade pip
 ```
 python -m pip install --upgrade pip
 ```
 
-### Step 3 - Install Dependencies
+* Install Dependencies
 ```
 pip install PySide6==6.5.2
 ```
-
-### Step 4 - Run Program
-* For Javascript Version
+* Unzip Javascript Files
+> You must unzip the folder within the ZIP file to the same exact directory where the scripts are located.
+# Run Program
+  * For Javascript Version
 ```
 python pyside6_pdfviewer_js.py
 ```
-* For Non-Javascript Version
+  * For Non-Javascript Version
 ```
-pyton pyside6_pdfviewer.py
+python pyside6_pdfviewer.py
 ```
 
-If you found it useful please star so more people can find the repository!
+## If you found it useful please star so more people can find the repository!
