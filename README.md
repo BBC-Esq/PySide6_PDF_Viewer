@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ### Step 4 - Run Program
 ```
-python pyqt6_pdf_viewer.py
+python pyside6_pdfviewer_javascript.py
 ```
 </details>
 
