@@ -23,7 +23,7 @@ Install Dependencies
 pip install PySide6==6.5.2
 ```
 Unzip Javascript Files
-* You must unzip the folder within the ZIP file to the same exact directory where the scripts are located.
+* :warning: You must unzip the folder within the ZIP file to the same exact directory where the scripts are located.
 
 # Run Program
 ### Javascript Version
