@@ -20,7 +20,7 @@ python -m pip install --upgrade pip
 ```
 Install Dependencies
 ```
-pip install PySide6==6.5.2
+pip install PySide6==6.7.2
 ```
 Unzip Javascript Files<br>
 :warning: You must unzip the folder within the ZIP file to the same exact directory where the scripts are located.:warning:
